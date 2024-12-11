@@ -3,7 +3,7 @@
 ## 🐨 &nbsp;About Me
 
 ```py
-🌐 An aspiring cybersecurity specialist exploring the web
+🌐 An aspiring cybersecurity student exploring the web
 🎓 Second year Student | CSE - Cybersecurity at Vellore Institute of Technology
 🤝 Lets Connect! My Socials are linked at the bottom 👇
 ```
